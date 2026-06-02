@@ -62,7 +62,7 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 ## 1. Simple Hello World
 **Question:** Create `first.py` with `print("Hello World!")`, run the program, and display the terminal output.
 
-<img src="images/q1.png" width="500">
+<img width="1919" height="1021" alt="Screenshot 2026-05-30 093935" src="https://github.com/user-attachments/assets/52574251-c704-4540-9740-5d8a8c2ece97" />
 
 
 ---
@@ -70,21 +70,14 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 ## 2. Jupyter Notebook
 **Question:** Create a Jupyter Notebook, add code cells and markdown cells, and execute them.
 
-<img src="images/q2_1.png" width="500">
-
-<img src="images/q2_2.png" width="500">
-
-<img src="images/q2_3.png" width="500">
-
+<img width="677" height="904" alt="screenshot" src="https://github.com/user-attachments/assets/3e345442-47ae-4184-9d02-b0de8a1121bc" />
 
 ---
 
 ## 3. VS Code Setup
 **Question:** Configure Python in VS Code, create a Python file, and verify IntelliSense and execution.
 
-<img src="images/q3_1.png" width="500">
-
-<img src="images/q3_2.png" width="500">
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/84a81424-85cc-48cb-b06d-9c4b28e119b6" />
 
 <img src="images/q3_3.png" width="500">
 
@@ -94,7 +87,8 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 ## 4. Float Precision
 **Question:** Calculate net salary after tax using `salary = 75000.5` and `tax_rate = 0.18`. Display the result with 2 decimal places.
 
-<img src="images/q4.png" width="500">
+<img width="1600" height="572" alt="image" src="https://github.com/user-attachments/assets/42fce427-84d2-435b-a31b-703eea0421ec" />
+
 
 
 ---
@@ -102,7 +96,8 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 ## 5. Multiple Assignment
 **Question:** Use multiple assignment to unpack `(x, y)` coordinates and display them.
 
-<img src="images/q5.png" width="500">
+<img width="1600" height="383" alt="image" src="https://github.com/user-attachments/assets/55d1fd91-a10c-4b57-becd-505f7a2ef610" />
+
 
 
 ---
@@ -110,7 +105,7 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 ## 6. Modulo Operator
 **Question:** Determine whether `number = 17` is Even or Odd using the modulo operator.
 
-<img src="images/q6.png" width="500">
+<img width="1600" height="353" alt="image" src="https://github.com/user-attachments/assets/ddee463e-03a1-4ec5-9ab5-15a8a25acf73" />
 
 
 ---
@@ -118,7 +113,8 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 ## 7. Floor Division
 **Question:** Split `total_bill = 1250` among `people = 4` using floor division and display each person's share.
 
-<img src="images/q7.png" width="500">
+<img width="1600" height="431" alt="image" src="https://github.com/user-attachments/assets/604d7e50-edaf-4057-8136-6aab59861ea7" />
+
 
 
 ---
@@ -126,7 +122,7 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 ## 8. Min/Max Functions
 **Question:** Find the highest and lowest salary from `[50000, 75000, 62000, 95000]`.
 
-<img src="images/q8.png" width="500">
+<img width="1600" height="436" alt="image" src="https://github.com/user-attachments/assets/b28221ea-ce30-4c50-ae20-4b5953a0a0c7" />
 
 
 ---
@@ -134,7 +130,7 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 ## 9. Basic Input
 **Question:** Accept the user's name and display a greeting message.
 
-<img src="images/q9.png" width="500">
+<img width="1918" height="974" alt="image" src="https://github.com/user-attachments/assets/8cad5a7a-c272-43ef-aadb-50f3c511baf9" />
 
 
 ---
@@ -174,7 +170,7 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 ## 14. If-Elif-Else
 **Question:** Assign grade A, B, or C using `score = 88`.
 
-<img src="images/q14.png" width="500">
+<img width="1600" height="347" alt="image" src="https://github.com/user-attachments/assets/bbfbf7ec-25d0-48b1-8ae9-148abfd6b4a0" />
 
 
 ---
@@ -182,7 +178,7 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 ## 15. Nested If
 **Question:** Validate login credentials using nested if statements with `user = "admin"` and `pwd = "pass123"`.
 
-<img src="images/q15.png" width="500">
+<img width="1600" height="427" alt="image" src="https://github.com/user-attachments/assets/bc5c7260-3025-4bb4-bfe3-6067e876ace4" />
 
 
 ---
@@ -366,7 +362,7 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 ## 38. Method Chaining
 **Question:** Create an employee object, apply salary updates using method chaining, and display the final salary.
 
-<img src="images/q38.png" width="500">
+<img width="1915" height="985" alt="image" src="https://github.com/user-attachments/assets/a2ac170f-b124-44c9-9bb6-a66bb18dcb2d" />
 
 
 ---
@@ -478,7 +474,7 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 ## 52. Gradebook System
 **Question:** Manage student grades, calculate GPA, and compute class averages.
 
-<img src="images/q52.png" width="500">
+<img width="1915" height="958" alt="image" src="https://github.com/user-attachments/assets/0f0ccd26-9017-4f0a-a7d2-4ee77d70b7c1" />
 
 
 ---
@@ -509,5 +505,6 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 # Author
 
 **KARTHIKEYAN M**
+
 B.E. CSE (IoT)  
 Saveetha Engineering College
